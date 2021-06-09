@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import { ApolloProvider, ApolloClient, InMemoryCache } from '@apollo/client'
 import { Home } from './components/Home';
